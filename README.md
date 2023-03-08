@@ -1,5 +1,5 @@
 # Home-Meteo-Station
-A simple home meteo station was build using Arduino Uno.
+A simple home meteo station based on Arduino Uno.
 
 # Measuring parameters
 - temperature (oC)
