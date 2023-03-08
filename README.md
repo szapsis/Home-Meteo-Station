@@ -1,12 +1,13 @@
 # Home-Meteo-Station
 A simple home meteo station was build using Arduino Uno.
 
-# Features
-Measuring parameters:
+# Measuring parameters
 - temperature (oC)
 - humidity (%)
 - atmospheric pressure (mBar)
 - CO2 (ppm)
+
+# Features
 CO2 zero-reference calibration.
 
 # Design
